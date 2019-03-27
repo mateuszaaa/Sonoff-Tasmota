@@ -1,0 +1,2 @@
+platformio run -e sonoff-basic
+platformio run -e sonoff-basic -t upload
